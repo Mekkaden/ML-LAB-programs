@@ -92,5 +92,3 @@ python "K-Means Clustering.py"
 ## ☕ Support
 
 Buy me a coffee when you see me ☕
-
-Crafted by **[Richard Shaji Mekkaden](https://github.com/mekkaden)**
